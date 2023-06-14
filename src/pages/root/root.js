@@ -1,0 +1,1 @@
+export const Root =() => <h1>root</h1>

@@ -1,0 +1,1 @@
+export const Second =() => <h1>second</h1>
